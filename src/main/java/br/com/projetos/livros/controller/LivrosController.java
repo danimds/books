@@ -11,8 +11,6 @@ import org.springframework.web.bind.annotation.*;
 import org.springframework.web.util.UriComponentsBuilder;
 
 import java.net.URI;
-import java.time.LocalDate;
-import java.util.Arrays;
 import java.util.List;
 
 @RestController
